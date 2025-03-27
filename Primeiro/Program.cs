@@ -20,9 +20,11 @@ namespace Primeiro {
 
             Console.WriteLine(idade);
             Console.WriteLine(salario.ToString("F2", CI));
-            Console.WriteLine(altura.ToString("F2",CI));
+            Console.WriteLine(altura.ToString("F2", CI));
             Console.WriteLine(genero);
             Console.WriteLine(nome);
+
+            Console.WriteLine("Teste");
         }
 
     }
